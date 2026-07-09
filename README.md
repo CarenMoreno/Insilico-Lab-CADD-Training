@@ -35,4 +35,4 @@ Insilico-Lab-CADD-Training/
 - Resolution: 1.90 Å (X-ray diffraction)
 - Ligand: Methotrexate (MTX), cofactor NADPH
 - [Screenshot 1 - full protein view]
-- [Screenshot 2 — ligand in binding pocket]
+- [Screenshot 2 - ligand in binding pocket]
