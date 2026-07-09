@@ -23,3 +23,7 @@ Insilico-Lab-CADD-Training/
 ├── Week3_.../
 └── README.md   
 ```
+
+## 🧬 Week 1 — Protein Target Selection, Binding Site Analysis & Preparation
+
+**Target:** Human Dihydrofolate Reductase (DHFR) — PDB ID [1U72](https://www.rcsb.org/structure/1U72)
