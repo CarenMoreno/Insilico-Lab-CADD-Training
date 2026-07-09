@@ -46,4 +46,4 @@ Insilico-Lab-CADD-Training/
 ### Task 3 - Protein Preparation
 - Cleaned in UCSF Chimera (waters removed, hydrogens/charges added via Dock Prep)
 - Output: `1U72prepared.pdb`
-- [Screenshot 4 — before] / [Screenshot 5 — after]
+- [Screenshot 4 - before] / [Screenshot 5 — after]
