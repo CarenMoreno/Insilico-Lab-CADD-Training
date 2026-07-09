@@ -42,3 +42,8 @@ Insilico-Lab-CADD-Training/
 - Top pocket: P_0 (Drug Score 0.81)
 - Key residues: Ile7, Glu30, Phe31, Phe34, Val115, Tyr121, Arg70
 - [Screenshot 3 - labeled binding pocket]
+
+### Task 3 — Protein Preparation
+- Cleaned in UCSF Chimera (waters removed, hydrogens/charges added via Dock Prep)
+- Output: `1U72prepared.pdb`
+- [Screenshot 4 — before] / [Screenshot 5 — after]
