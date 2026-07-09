@@ -41,4 +41,4 @@ Insilico-Lab-CADD-Training/
 - Tool: DoGSiteScorer
 - Top pocket: P_0 (Drug Score 0.81)
 - Key residues: Ile7, Glu30, Phe31, Phe34, Val115, Tyr121, Arg70
-- [Screenshot 3 — labeled binding pocket]
+- [Screenshot 3 - labeled binding pocket]
