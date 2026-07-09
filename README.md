@@ -9,3 +9,5 @@ Repository documenting my work in The Insilico Lab's 3-Week Virtual Training in 
 - **Cohort:** 5
 - **Dates:** July 3 – July 19, 2026
 - **Tools used:** PyMOL, UCSF Chimera, RCSB PDB, proteins.plus (DoGSiteScorer), AlphaFold3
+
+## 📂 Repository Structure
