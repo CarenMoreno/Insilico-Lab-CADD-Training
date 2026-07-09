@@ -28,11 +28,11 @@ Insilico-Lab-CADD-Training/
 
 **Target:** Human Dihydrofolate Reductase (DHFR) - PDB ID [1U72](https://www.rcsb.org/structure/1U72)
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/rcsb.structure1U72.png" width="400">
+  <img src="Week1_Protein_Target_Selection/screenshots/rcsb.structure1U72.png" width="300">
 </p>
 
 ### Task 1 - Structure Selection
 - Resolution: 1.90 Å (X-ray diffraction)
 - Ligand: Methotrexate (MTX), cofactor NADPH
-- [Screenshot 1 — full protein view]
+- [Screenshot 1 - full protein view]
 - [Screenshot 2 — ligand in binding pocket]
