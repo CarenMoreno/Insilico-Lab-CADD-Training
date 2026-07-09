@@ -47,3 +47,6 @@ Insilico-Lab-CADD-Training/
 - Cleaned in UCSF Chimera (waters removed, hydrogens/charges added via Dock Prep)
 - Output: `1U72prepared.pdb`
 - [Screenshot 4 - before] / [Screenshot 5 - after]
+
+## 🔗 LinkedIn Post
+[link to your post once published]
