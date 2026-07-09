@@ -27,3 +27,9 @@ Insilico-Lab-CADD-Training/
 ## 🧬 Week 1 - Protein Target Selection, Binding Site Analysis & Preparation
 
 **Target:** Human Dihydrofolate Reductase (DHFR) - PDB ID [1U72](https://www.rcsb.org/structure/1U72)
+
+### Task 1 — Structure Selection
+- Resolution: 1.90 Å (X-ray diffraction)
+- Ligand: Methotrexate (MTX), cofactor NADPH
+- [Screenshot 1 — full protein view]
+- [Screenshot 2 — ligand in binding pocket]
