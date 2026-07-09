@@ -49,4 +49,4 @@ Insilico-Lab-CADD-Training/
 - [Screenshot 4 - before] / [Screenshot 5 - after]
 
 ## 🔗 LinkedIn Post
-[link to your post once published]
+[[link to your post once published]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
