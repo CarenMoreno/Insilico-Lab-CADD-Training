@@ -12,7 +12,7 @@ Repository documenting my work in The Insilico Lab's 3-Week Virtual Training in 
 
 ## 📂 Repository Structure
 ```
-LAB-BileAcid-Stress-Response/
+Insilico-Lab-CADD-Training/
 │                               
 ├── data                       
 │   ├──                    
