@@ -13,16 +13,12 @@ Repository documenting my work in The Insilico Lab's 3-Week Virtual Training in 
 ## 📂 Repository Structure
 ```
 Insilico-Lab-CADD-Training/
-│                               
-├── data                       
-│   ├──                    
-│   └──               
-├── R                                           
-│   ├──                
-├── docs/                       
-│   └── 
-│
-
-└── publication/
-    └── pdf   
+├── Week1_Protein_Target_Selection/
+│   ├── Task1_Structure_Selection/
+│   ├── Task2_Binding_Site_Analysis/
+│   ├── Task3_Protein_Preparation/
+│   └── screenshots/
+├── Week2_.../
+├── Week3_.../
+└── README.md   
 ```
