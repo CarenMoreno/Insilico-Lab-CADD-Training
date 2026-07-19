@@ -44,7 +44,10 @@ Insilico-Lab-CADD-Training/
 ### Task 1 - Structure Selection
 - Resolution: 1.90 Å (X-ray diffraction)
 - Ligand: Methotrexate (MTX), cofactor NADPH
-- [Screenshot 1 - full protein view]
+- Screenshot 1 - full protein view
+<p align="center">
+  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view.jpg" width="350">
+</p>
 - [Screenshot 2 - ligand in binding pocket]
 
 ### Task 2 - Binding Site Analysis
