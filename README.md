@@ -62,7 +62,7 @@ Insilico-Lab-CADD-Training/
 - Result: all three compounds passed with 0 violations
 - [Screenshot - SwissADME Lipinski results]
 
-### Task 2 — Molecular Docking & Interactions
+### Task 2 - Molecular Docking & Interactions
 - Tools: PyRx (AutoDock Vina), BIOVIA Discovery Studio
 - Best docking scores (kcal/mol):
   - Gefitinib: **-9.4**
