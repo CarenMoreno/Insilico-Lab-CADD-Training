@@ -90,15 +90,15 @@ Insilico-Lab-CADD-Training/
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
-      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 1.png" width="280" alt="Molecule 1: Curcumin"><br>
+      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 1.png" width="320" alt="Molecule 1: Curcumin"><br>
       <sub><b>COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O</b></sub>
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 2.png" width="280" alt="Molecule 2: Gefitinib"><br>
+      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 2.png" width="320" alt="Molecule 2: Gefitinib"><br>
       <sub><b>COC1=C(C=C2C(=C1)N=CN=C2NC3=CC(=C(C=C3)F)Cl)OCCCN4CCOCC4</b></sub>
     </td>
     <td align="center" style="border: none; padding: 10px;">
-      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 3.png" width="280" alt="Molecule 3: Kaempferol"><br>
+      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 3.png" width="3200" alt="Molecule 3: Kaempferol"><br>
       <sub><b>C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O</b></sub>
     </td>
   </tr>
