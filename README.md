@@ -46,7 +46,7 @@ Insilico-Lab-CADD-Training/
 - Ligand: Methotrexate (MTX), cofactor NADPH
 - Screenshot 1 - full protein view
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view.jpg" width="350">
+  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view.jpg" width="400">
 </p>
 - [Screenshot 2 - ligand in binding pocket]
 
@@ -68,7 +68,7 @@ Insilico-Lab-CADD-Training/
 **Target:** Human DHFR - PDB [1U72](https://www.rcsb.org/structure/1U72) (prepared structure from Week 1)
 
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/CADD_Lead_Optimization_Training_Workflow.jpg" width="400">
+  <img src="Week1_Protein_Target_Selection/screenshots/CADD_Lead_Optimization_Training_Workflow.jpg" width="350">
 </p>
 
 ### Task 1 - Drug-likeness Screening
