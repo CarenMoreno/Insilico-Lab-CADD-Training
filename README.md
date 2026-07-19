@@ -71,7 +71,7 @@ Insilico-Lab-CADD-Training/
 ### Task 3 — ADMET Prediction
 - Tool: ADMET-AI
 - Gefitinib showed the most favorable overall profile: high oral bioavailability, complete intestinal absorption, and strong BBB penetration
-- [Screenshot — ADMET-AI summary]
+- [Screenshot - ADMET-AI summary]
 
 ## 🔗 LinkedIn Posts
 - Week 1: [link]
