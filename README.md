@@ -19,7 +19,11 @@ Insilico-Lab-CADD-Training/
 │   ├── Task2_Binding_Site_Analysis/
 │   ├── Task3_Protein_Preparation/
 │   └── screenshots/
-├── Week2_.../
+├── Week2_Drug_Likeness_Docking_ADMET/
+│   ├── Task1_SwissADME/
+│   ├── Task2_PyRx_Docking/
+│   ├── Task3_ADMET/
+│   └── screenshots/
 ├── Week3_.../
 └── README.md
  ├── Week1_Protein_Target_Selection/
