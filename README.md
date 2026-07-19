@@ -54,7 +54,7 @@ Insilico-Lab-CADD-Training/
 **Target:** Human DHFR - PDB [1U72](https://www.rcsb.org/structure/1U72) (prepared structure from Week 1)
 
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/rcsb.structure1U72.png" width="300">
+  <img src="Week1_Protein_Target_Selection/screenshots/CADD_Lead_Optimization_Training_Workflow.png" width="300">
 </p>
 CADD_Lead_Optimization_Training_Workflow
 ### Task 1 - Drug-likeness Screening
