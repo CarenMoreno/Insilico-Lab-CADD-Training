@@ -27,7 +27,6 @@ Insilico-Lab-CADD-Training/
 ├── Week3_.../
 └── README.md
 
- ├── Week1_Protein_Target_Selection/
 ├── Week2_Drug_Likeness_Docking_ADMET/
 │   ├── Task1_SwissADME/
 │   ├── Task2_PyRx_Docking/
