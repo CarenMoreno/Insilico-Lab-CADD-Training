@@ -46,7 +46,7 @@ Insilico-Lab-CADD-Training/
 - Ligand: Methotrexate (MTX), cofactor NADPH
 - Screenshot 1 - full protein view
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view.jpg" width="400">
+  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view.jpg" width="425">
 </p>
 - [Screenshot 2 - ligand in binding pocket]
 
