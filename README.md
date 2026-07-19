@@ -50,7 +50,7 @@ Insilico-Lab-CADD-Training/
 </p>
 - [Screenshot 2 - ligand in binding pocket]
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view1.jpg" width="425">
+  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view1.png" width="425">
 </p>
 
 ### Task 2 - Binding Site Analysis
