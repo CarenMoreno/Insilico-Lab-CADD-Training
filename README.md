@@ -79,7 +79,7 @@ Insilico-Lab-CADD-Training/
 - [Screenshot - ADMET-AI summary]
 
 ## 🔗 LinkedIn Posts
-- Week 1: [link]
+- Week 1: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
 - Week 2: [link to your post]
 
 ## 🔗 LinkedIn Post
