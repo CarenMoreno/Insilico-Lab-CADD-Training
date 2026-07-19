@@ -61,7 +61,10 @@ Insilico-Lab-CADD-Training/
 - Tool: DoGSiteScorer
 - Top pocket: P_0 (Drug Score 0.81)
 - Key residues: Ile7, Glu30, Phe31, Phe34, Val115, Tyr121, Arg70
-- [Screenshot 3 - labeled binding pocket]
+- Screenshot 3 - labeled binding pocket
+<p align="center">
+  <img src="Week1_Protein_Target_Selection/screenshots/Foto 3. bolsillo de cerca.png" width="425">
+</p>
 
 ### Task 3 - Protein Preparation
 - Cleaned in UCSF Chimera (waters removed, hydrogens/charges added via Dock Prep)
