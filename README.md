@@ -52,7 +52,7 @@ Insilico-Lab-CADD-Training/
   <img src="Week1_Protein_Target_Selection/screenshots/Full protein view1.png" width="425">
 </p>
 
-- [Screenshot 2 - ligand in binding pocket]
+- Screenshot 2 - ligand in binding pocket
 <p align="center">
   <img src="Week1_Protein_Target_Selection/screenshots/2 Foto 2 publiacación.png" width="425">
 </p>
@@ -63,7 +63,7 @@ Insilico-Lab-CADD-Training/
 - Key residues: Ile7, Glu30, Phe31, Phe34, Val115, Tyr121, Arg70
 - Screenshot 3 - labeled binding pocket
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/Foto 3. bolsillo de cerca.jpg" width="425">
+  <img src="Week1_Protein_Target_Selection/screenshots/Foto 3. bolsillo de cerca.jpg" width="350">
 </p>
 
 ### Task 3 - Protein Preparation
