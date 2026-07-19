@@ -53,7 +53,9 @@ Insilico-Lab-CADD-Training/
 **Compounds:** Curcumin ([CID 969516](https://pubchem.ncbi.nlm.nih.gov/compound/969516)), Gefitinib ([CID 123631](https://pubchem.ncbi.nlm.nih.gov/compound/123631)), Kaempferol ([CID 5280863](https://pubchem.ncbi.nlm.nih.gov/compound/5280863))
 **Target:** Human DHFR - PDB [1U72](https://www.rcsb.org/structure/1U72) (prepared structure from Week 1)
 
-
+<p align="center">
+  <img src="Week1_Protein_Target_Selection/screenshots/rcsb.structure1U72.png" width="300">
+</p>
 CADD_Lead_Optimization_Training_Workflow
 ### Task 1 - Drug-likeness Screening
 - Tool: SwissADME (Lipinski's Rule of Five)
