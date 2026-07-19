@@ -99,6 +99,7 @@ Insilico-Lab-CADD-Training/
     </td>
   </tr>
 </table>
+
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
