@@ -99,6 +99,14 @@ Insilico-Lab-CADD-Training/
     </td>
   </tr>
 </table>
+<table align="center" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td align="center" style="border: none; padding: 10px;">
+      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 3.png" width="3200" alt="Molecule 3: Kaempferol"><br>
+      <sub><b>C1=CC(=CC=C1C2=C(C(=O)C3=C(C=C(C=C3O2)O)O)O)O</b></sub>
+    </td>
+  </tr>
+</table>
 
 ## 🔗 LinkedIn Posts
 - Week 1: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
