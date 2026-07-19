@@ -72,7 +72,7 @@ Insilico-Lab-CADD-Training/
 - [Screenshot — PyRx docking results]
 - [Screenshots — 2D interaction diagrams (Curcumin / Gefitinib / Kaempferol)]
 
-### Task 3 — ADMET Prediction
+### Task 3 - ADMET Prediction
 - Tool: ADMET-AI
 - Gefitinib showed the most favorable overall profile: high oral bioavailability, complete intestinal absorption, and strong BBB penetration
 - [Screenshot - ADMET-AI summary]
