@@ -71,7 +71,7 @@ Insilico-Lab-CADD-Training/
 - Output: `1U72prepared.pdb`
 - [Screenshot 4 - before] / [Screenshot 5 - after]
 <p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/4 Posible imagen 4.png" width="350">
+  <img src="Week1_Protein_Target_Selection/screenshots/4 Posible imagen 4.jpg" width="350">
 </p>
 
 ## 🧬 Week 2 - Drug-likeness Screening, Molecular Docking & ADMET Prediction
