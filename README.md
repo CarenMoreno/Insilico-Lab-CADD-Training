@@ -56,7 +56,7 @@ Insilico-Lab-CADD-Training/
 <p align="center">
   <img src="Week1_Protein_Target_Selection/screenshots/CADD_Lead_Optimization_Training_Workflow.png" width="300">
 </p>
-CADD_Lead_Optimization_Training_Workflow
+
 ### Task 1 - Drug-likeness Screening
 - Tool: SwissADME (Lipinski's Rule of Five)
 - Result: all three compounds passed with 0 violations
