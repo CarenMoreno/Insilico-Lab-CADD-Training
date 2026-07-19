@@ -48,5 +48,34 @@ Insilico-Lab-CADD-Training/
 - Output: `1U72prepared.pdb`
 - [Screenshot 4 - before] / [Screenshot 5 - after]
 
+## 🧬 Week 2 — Drug-likeness Screening, Molecular Docking & ADMET Prediction
+
+**Compounds:** Curcumin ([CID 969516](https://pubchem.ncbi.nlm.nih.gov/compound/969516)), Gefitinib ([CID 123631](https://pubchem.ncbi.nlm.nih.gov/compound/123631)), Kaempferol ([CID 5280863](https://pubchem.ncbi.nlm.nih.gov/compound/5280863))
+**Target:** Human DHFR — PDB [1U72](https://www.rcsb.org/structure/1U72) (prepared structure from Week 1)
+
+### Task 1 — Drug-likeness Screening
+- Tool: SwissADME (Lipinski's Rule of Five)
+- Result: all three compounds passed with 0 violations
+- [Screenshot — SwissADME Lipinski results]
+
+### Task 2 — Molecular Docking & Interactions
+- Tools: PyRx (AutoDock Vina), BIOVIA Discovery Studio
+- Best docking scores (kcal/mol):
+  - Gefitinib: **-9.4**
+  - Curcumin: -9.0
+  - Kaempferol: -8.7
+- Gefitinib showed a distinct halogen bond (fluorine) contributing to its top score
+- [Screenshot — PyRx docking results]
+- [Screenshots — 2D interaction diagrams (Curcumin / Gefitinib / Kaempferol)]
+
+### Task 3 — ADMET Prediction
+- Tool: ADMET-AI
+- Gefitinib showed the most favorable overall profile: high oral bioavailability, complete intestinal absorption, and strong BBB penetration
+- [Screenshot — ADMET-AI summary]
+
+## 🔗 LinkedIn Posts
+- Week 1: [link]
+- Week 2: [link to your post]
+
 ## 🔗 LinkedIn Post
 [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
