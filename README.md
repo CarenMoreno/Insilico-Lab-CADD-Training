@@ -139,11 +139,6 @@ Insilico-Lab-CADD-Training/
 - [Screenshot — PyMOL overlay: predicted (blue) vs. experimental (orange)]
 
 ## 🔗 LinkedIn Posts
-- Week 1: [link]
-- Week 2: [link]
-- Week 3: [link a tu nuevo post]
-
-## 🔗 LinkedIn Posts
 - Week 1: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
 - Week 2: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-share-7483696729138102272-htxG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
 - Week 3: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_week-3-caad-ugcPost-7484877729687990272-t-z3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
