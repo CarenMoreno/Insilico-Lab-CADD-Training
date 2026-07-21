@@ -135,7 +135,7 @@ Insilico-Lab-CADD-Training/
 - **Result: RMSD = 0.420 Å (1240 atoms)** - excellent agreement between AI prediction and experimental structure
 - [Screenshot - FASTA sequence]
 - [Screenshot - AlphaFold3 predicted structure, pLDDT-colored]
-- [Screenshot — PyMOL overlay: predicted (blue) vs. experimental (orange)]
+- Screenshot - PyMOL overlay: predicted (blue) vs. experimental (orange)
 
 ## 🔗 LinkedIn Posts
 - Week 1: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
