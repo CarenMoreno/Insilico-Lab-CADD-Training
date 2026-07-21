@@ -124,6 +124,28 @@ Insilico-Lab-CADD-Training/
   </tr>
 </table>
 
+## 🧬 Week 3 — AI-Based Structure Prediction & Validation
+
+**Target:** Human DHFR — PDB [1U72](https://www.rcsb.org/structure/1U72)
+**Tool:** AlphaFold3 (structure prediction), PyMOL (structural alignment)
+
+### Task 1 — FASTA Retrieval, AlphaFold3 Prediction & Structural Alignment
+- FASTA sequence retrieved from RCSB PDB and used as AlphaFold3 input
+- AlphaFold3 model confidence: pTM = 0.95, most residues in the very high confidence range (pLDDT > 90)
+- Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1)
+- **Result: RMSD = 0.420 Å (1240 atoms)** — excellent agreement between AI prediction and experimental structure
+- [Screenshot — FASTA sequence]
+- [Screenshot — AlphaFold3 predicted structure, pLDDT-colored]
+- [Screenshot — PyMOL overlay: predicted (blue) vs. experimental (orange)]
+
+## 🔗 LinkedIn Posts
+- Week 1: [link]
+- Week 2: [link]
+- Week 3: [link a tu nuevo post]
+
+## ✅ Training Summary
+Across the three weeks, this repository documents a full structure-based CADD workflow on human DHFR (1U72): target selection and binding site analysis → drug-likeness screening, molecular docking, and ADMET prediction of three candidate ligands → AI-based structure prediction and validation with AlphaFold3.
+
 ## 🔗 LinkedIn Posts
 - Week 1: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
 - Week 2: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-share-7483696729138102272-htxG/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
