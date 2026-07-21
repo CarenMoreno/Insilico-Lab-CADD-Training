@@ -134,7 +134,7 @@ Insilico-Lab-CADD-Training/
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1)
 - **Result: RMSD = 0.420 Å (1240 atoms)** - excellent agreement between AI prediction and experimental structure
 - [Screenshot - FASTA sequence]
-- [Screenshot — AlphaFold3 predicted structure, pLDDT-colored]
+- [Screenshot - AlphaFold3 predicted structure, pLDDT-colored]
 - [Screenshot — PyMOL overlay: predicted (blue) vs. experimental (orange)]
 
 ## 🔗 LinkedIn Posts
