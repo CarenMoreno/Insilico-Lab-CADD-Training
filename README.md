@@ -128,7 +128,7 @@ Insilico-Lab-CADD-Training/
 **Target:** Human DHFR - PDB [1U72](https://www.rcsb.org/structure/1U72)
 **Tool:** AlphaFold3 (structure prediction), PyMOL (structural alignment)
 
-### Task 1 — FASTA Retrieval, AlphaFold3 Prediction & Structural Alignment
+### Task 1 - FASTA Retrieval, AlphaFold3 Prediction & Structural Alignment
 - FASTA sequence retrieved from RCSB PDB and used as AlphaFold3 input
 - AlphaFold3 model confidence: pTM = 0.95, most residues in the very high confidence range (pLDDT > 90)
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1)
