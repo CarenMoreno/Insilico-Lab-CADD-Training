@@ -84,7 +84,7 @@ Insilico-Lab-CADD-Training/
 ### Task 1 - Drug-likeness Screening
 - Tool: SwissADME (Lipinski's Rule of Five)
 - Result: all three compounds passed with 0 violations
-- [Screenshot - SwissADME Lipinski results]
+- Screenshot - SwissADME Lipinski results
 
 ### Task 2 - Molecular Docking & Interactions
 - Tools: PyRx (AutoDock Vina), BIOVIA Discovery Studio
