@@ -94,7 +94,7 @@ Insilico-Lab-CADD-Training/
   - Kaempferol: -8.7
 - Gefitinib showed a distinct halogen bond (fluorine) contributing to its top score
   Screenshot - PyRx docking results
-- [Screenshots - 2D interaction diagrams (Curcumin / Gefitinib / Kaempferol)]
+- Screenshots - 2D interaction diagrams (Curcumin / Gefitinib / Kaempferol)
 
 ### Task 3 - ADMET Prediction
 - Tool: ADMET-AI
