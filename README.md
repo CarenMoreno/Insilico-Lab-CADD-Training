@@ -26,7 +26,7 @@ Insilico-Lab-CADD-Training/
 
 │   ├──/
 │   ├──
-│   └── screenshots/ 
+│   └── 
 ```
 
 ## 🧬 Week 1 - Protein Target Selection, Binding Site Analysis & Preparation
