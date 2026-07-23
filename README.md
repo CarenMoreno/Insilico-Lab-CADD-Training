@@ -24,7 +24,7 @@ Insilico-Lab-CADD-Training/
 ├── Week3_.../
 └── README.md
 
-│   ├── Task2_/
+│   ├── Task2/
 │   ├── Task3_ADMET/
 │   └── screenshots/ 
 ```
