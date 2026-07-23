@@ -25,7 +25,7 @@ Insilico-Lab-CADD-Training/
 └── README.md
 
 │   ├──/
-│   ├── /
+│   ├──
 │   └── screenshots/ 
 ```
 
