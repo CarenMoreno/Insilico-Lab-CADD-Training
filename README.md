@@ -187,7 +187,7 @@ Across the three weeks, this repository documents a full structure-based CADD wo
 - **Result: RMSD = 0.420 Å (1240 atoms)** - excellent agreement between AI prediction and experimental structure
 
 <p align="center">
-  <img src="Week3_AlphaFold3_Structure_Prediction/screenshots/1_FASTA_1U72.jpg" width="400">
+  <img src="Week3_AlphaFold3_Structure_Prediction/screenshots/1_FASTA_1U72.png" width="400">
   <img src="Week3_AlphaFold3_Structure_Prediction/screenshots/2_AlphaFold3_1U72.png" width="400">
 </p>
 <p align="center">
