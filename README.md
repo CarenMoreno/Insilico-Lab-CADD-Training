@@ -150,6 +150,7 @@ Insilico-Lab-CADD-Training/
 Across the three weeks, this repository documents a full structure-based CADD workflow on human DHFR (1U72): target selection and binding site analysis → drug-likeness screening, molecular docking, and ADMET prediction of three candidate ligands → AI-based structure prediction and validation with AlphaFold3.
 
 
+
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
 
 **Target:** Human DHFR - PDB [1U72](https://www.rcsb.org/structure/1U72)
