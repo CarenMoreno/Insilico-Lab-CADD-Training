@@ -7,8 +7,9 @@
 </p>
 <p align="center">
   <em>The Insilico Lab · 3-Week Virtual Training in Computer-Aided Drug Design (CADD)</em><br>
-  <strong>Caren Moreno</strong> · Biotechnologist · 2026
+  <strong>Caren Moreno</strong> · Bioinformatics · 2026
 </p>
+
 
 Repository documenting my work in The Insilico Lab's 3-Week Virtual Training in Computer-Aided Drug Design (CADD), Cohort 5 (July 2026). Covers protein/ligand preparation, molecular docking, ADMET screening, and AI-based structure prediction, using PyMOL, UCSF Chimera, RCSB PDB, and proteins.plus.
 
