@@ -1,4 +1,15 @@
 # Insilico Lab - CADD Training (Cohort 5)
+<p align="center">
+  <img src="https://img.shields.io/badge/PyMOL-Molecular%20Visualization-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AlphaFold3-Structure%20Prediction-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Target-Human%20DHFR%20%7C%201U72-8B4513?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Cohort-5-E67E22?style=for-the-badge"/>
+</p>
+<p align="center">
+  <em>The Insilico Lab · 3-Week Virtual Training in Computer-Aided Drug Design (CADD)</em><br>
+  <strong>Caren Moreno</strong> · Biotechnologist · 2026
+</p>
+
 Repository documenting my work in The Insilico Lab's 3-Week Virtual Training in Computer-Aided Drug Design (CADD), Cohort 5 (July 2026). Covers protein/ligand preparation, molecular docking, ADMET screening, and AI-based structure prediction, using PyMOL, UCSF Chimera, RCSB PDB, and proteins.plus.
 
 ## 📅 Training Overview
