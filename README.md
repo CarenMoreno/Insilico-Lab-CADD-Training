@@ -35,6 +35,30 @@ Insilico-Lab-CADD-Training/
 │   └── screenshots/
 ├── Week3_.../
 └── README.md
+
+
+Insilico-Lab-CADD-Training/
+|
+├── Week1_Protein_Target_Selection/
+│ ├── Task1_Structure_Selection/
+│ ├── Task2_Binding_Site_Analysis/
+│ ├── Task3_Protein_Preparation/
+│ └── screenshots/
+├── Week2_Drug_Likeness_Docking_ADMET/
+│ ├── Task1_SwissADME/
+│ ├── Task2_PyRx_Docking/
+│ ├── Task3_ADMET/
+│ └── screenshots/
+├── Week3_AlphaFold3_Structure_Prediction/
+│ └── screenshots/
+├── Capstone_Project_3HS4/
+│ ├── Task1_Drug_Likeness/
+│ ├── Task2_Protein_Preparation/
+│ ├── Task3_Binding_Site/
+│ ├── Task4_ADMET/
+│ ├── Task5_AlphaFold3/
+│ └── screenshots/
+└── README.md
 ```
 
 ## 🧬 Week 1 - Protein Target Selection, Binding Site Analysis & Preparation
