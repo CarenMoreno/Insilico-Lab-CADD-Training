@@ -216,7 +216,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 
 ### Task 3 - Binding Site Prediction
 - Tool: DoGSiteScorer (raw, unprepared structure)
-- Top pocket: **P_0** — Volume 374.53 Å³, Surface 331.35 Å², Druggability Score 0.62
+- Top pocket: **P_0** - Volume 374.53 Å³, Surface 331.35 Å², Druggability Score 0.62
 - Key residues: His94, His96, His119 (zinc-coordinating), Val121, Thr199
 
 <p align="center">
@@ -235,7 +235,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 
 ### Task 5 - AlphaFold3 Structure Evaluation
 - FASTA sequence of 3HS4 (Chain A) retrieved from RCSB PDB and submitted to AlphaFold3
-- **Result: RMSD = 0.172 Å (258 residues aligned) — Excellent agreement**
+- **Result: RMSD = 0.172 Å (258 residues aligned) - Excellent agreement**
 
 <p align="center">
   <img src="Capstone_Project_3HS4/screenshots/Figure_5.1_FASTA_3HS4.png" width="350">
@@ -258,7 +258,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 Across the three weeks, this repository documents a full structure-based CADD workflow on human DHFR (1U72): target selection and binding site analysis → drug-likeness screening, molecular docking, and ADMET prediction of three candidate ligands → AI-based structure prediction and validation with AlphaFold3.
 
 ## ✅ Training Summary
-Across the three weeks plus the Capstone Project, this repository documents two full structure-based CADD workflows: target selection, binding site analysis, drug-likeness screening, molecular docking, ADMET prediction, and AI-based structure prediction/validation — first on human DHFR (1U72) with three candidate ligands, and then on human Carbonic Anhydrase II (3HS4) with five clinically-used carbonic anhydrase inhibitors, integrating every skill learned across the training into a single end-to-end pipeline.
+Across the three weeks plus the Capstone Project, this repository documents two full structure-based CADD workflows: target selection, binding site analysis, drug-likeness screening, molecular docking, ADMET prediction, and AI-based structure prediction/validation - first on human DHFR (1U72) with three candidate ligands, and then on human Carbonic Anhydrase II (3HS4) with five clinically-used carbonic anhydrase inhibitors, integrating every skill learned across the training into a single end-to-end pipeline.
 
 
 
