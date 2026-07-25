@@ -25,9 +25,6 @@ Insilico-Lab-CADD-Training/
 |
 ├── Week1_Protein_Target_Selection/
 │   ├── Task1_Structure_Selection/
-│   ├── Task2_Binding_Site_Analysis/
-
-
 
 Insilico-Lab-CADD-Training/
 |
