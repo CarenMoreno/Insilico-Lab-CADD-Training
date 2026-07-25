@@ -217,7 +217,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 - Key residues: His94, His96, His119 (zinc-coordinating), Val121, Thr199
 
 <p align="center">
-  <img src="Capstone_Project_3HS4/screenshots/Figure_3.1_Binding_Pocket_PyMOL.png" width="430">
+  <img src="Capstone_Project_3HS4/screenshots/Figure_3.1_Binding_Pocket_PyMOL.png" width="431">
   <img src="Capstone_Project_3HS4/screenshots/Figure_3.2_DoGSiteScorer_Results.png" width="270">
 </p>
 
