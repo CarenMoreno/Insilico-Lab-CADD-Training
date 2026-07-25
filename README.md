@@ -251,8 +251,6 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 - Week 3: [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_week-3-caad-ugcPost-7484877729687990272-t-z3/?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
 - Capstone Project: *(agregar link una vez publicado)*
 
-## 🔗 LinkedIn Posts
-
 ## ✅ Training Summary
 Across the three weeks, this repository documents a full structure-based CADD workflow on human DHFR (1U72): target selection and binding site analysis → drug-likeness screening, molecular docking, and ADMET prediction of three candidate ligands → AI-based structure prediction and validation with AlphaFold3.
 
