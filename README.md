@@ -24,7 +24,6 @@ Repository documenting my work in The Insilico Lab's 3-Week Virtual Training in 
 Insilico-Lab-CADD-Training/
 |
 ├── Week1_Protein_Target_Selection/
-│   ├── Task1_Structure_Selection/
 
 Insilico-Lab-CADD-Training/
 |
