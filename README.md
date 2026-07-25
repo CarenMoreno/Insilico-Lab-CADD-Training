@@ -161,7 +161,7 @@ Insilico-Lab-CADD-Training/
 - **Result: RMSD = 0.420 Å (1240 atoms)** - excellent agreement between AI prediction and experimental structure
 
 <p align="center">
-  <img src="Week3_AlphaFold3_Structure_Prediction/screenshots/1_FASTA_1U72.png" width="440">
+  <img src="Week3_AlphaFold3_Structure_Prediction/screenshots/1_FASTA_1U72.png" width="425">
   <img src="Week3_AlphaFold3_Structure_Prediction/screenshots/2_AlphaFold3_1U72.png" width="400">
 </p>
 <p align="center">
