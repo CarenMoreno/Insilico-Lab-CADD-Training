@@ -207,7 +207,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 - Output: `3HS4prepared.pdb`
 
 <p align="center">
-  <img src="Capstone_Project_3HS4/screenshots/Figure_2.1_Before_3HS4.png" width="400">
+  <img src="Capstone_Project_3HS4/screenshots/Figure_2.1_Before_3HS4.jpg" width="400">
   <img src="Capstone_Project_3HS4/screenshots/Figure_2.2_After_3HS4prepared.png" width="400">
 </p>
 
