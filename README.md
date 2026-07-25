@@ -238,7 +238,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 - **Result: RMSD = 0.172 Å (258 residues aligned) - Excellent agreement**
 
 <p align="center">
-  <img src="Capstone_Project_3HS4/screenshots/Figure_5.1_FASTA_3HS4.jpg" width="350">
+  <img src="Capstone_Project_3HS4/screenshots/Figure_5.1_FASTA_3HS4.jpg" width="450">
   <img src="Capstone_Project_3HS4/screenshots/Figure_5.2_AlphaFold3_3HS4.png" width="350">
 </p>
 <p align="center">
