@@ -30,9 +30,6 @@ Insilico-Lab-CADD-Training/
 │   └── screenshots/
 ├── Week2_Drug_Likeness_Docking_ADMET/
 │   ├── Task1_SwissADME/
-│   ├── Task2_PyRx_Docking/
-│   ├── Task3_ADMET/
-│   └── screenshots/
 
 
 
