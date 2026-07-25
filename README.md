@@ -33,8 +33,7 @@ Insilico-Lab-CADD-Training/
 │   ├── Task2_PyRx_Docking/
 │   ├── Task3_ADMET/
 │   └── screenshots/
-├── Week3_.../
-└── README.md
+
 
 
 Insilico-Lab-CADD-Training/
