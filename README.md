@@ -193,9 +193,9 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 
 <p align="center">
   <img src="Capstone_Project_3HS4/screenshots/Figure_1.1_Acetazolamide.png" width="180">
-  <img src="Capstone_Project_3HS4/screenshots/Figure_1.2_Methazolamide.png" width="180">
+  <img src="Capstone_Project_3HS4/screenshots/Figure_1.2_Methazolamide.png" width="160">
   <img src="Capstone_Project_3HS4/screenshots/Figure_1.3_Ethoxzolamide.png" width="180">
-  <img src="Capstone_Project_3HS4/screenshots/Figure_1.4_Dorzolamide.png" width="180">
+  <img src="Capstone_Project_3HS4/screenshots/Figure_1.4_Dorzolamide.png" width="165">
   <img src="Capstone_Project_3HS4/screenshots/Figure_1.5_Brinzolamide.png" width="180">
 </p>
 <p align="center">
