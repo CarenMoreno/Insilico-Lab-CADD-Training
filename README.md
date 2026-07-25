@@ -59,9 +59,6 @@ Insilico-Lab-CADD-Training/
 <p align="center">
   <img src="Week1_Protein_Target_Selection/screenshots/Full protein view.jpg" width="425">
 </p>
-<p align="center">
-  <img src="Week1_Protein_Target_Selection/screenshots/Full protein view1.png" width="425">
-</p>
 
 - Screenshot 2 - ligand in binding pocket
 <p align="center">
