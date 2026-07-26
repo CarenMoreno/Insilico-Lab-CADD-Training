@@ -257,7 +257,6 @@ And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carboni
 
 
 ## 🔗 LinkedIn Post
-[]
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
