@@ -256,7 +256,6 @@ Across the three weeks plus the Capstone Project, this repository documents a fu
 And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carbonic anhydrase inhibitors, integrating every skill learned across the training into a single end-to-end pipeline.
 
 
-
 ## 🔗 LinkedIn Post
 [[Post LinkedIn]](https://www.linkedin.com/posts/carenmoreno-biotech_cadd-drugdiscovery-computationalbiology-activity-7480986480912543744-KnuO?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEsbrkQBSPdKimnT3ne9nmTt0Sueta1viM4)
 
