@@ -255,8 +255,7 @@ This final project integrates the full workflow from Weeks 1-3 into a single 6-t
 Across the three weeks plus the Capstone Project, this repository documents a full structure-based CADD workflow on human DHFR (1U72): target selection and binding site analysis → drug-likeness screening, molecular docking, and ADMET prediction of three candidate ligands → AI-based structure prediction and validation with AlphaFold3.
 And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carbonic anhydrase inhibitors, integrating every skill learned across the training into a single end-to-end pipeline.
 
-
-## 🔗
+## 
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
