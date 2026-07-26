@@ -256,7 +256,7 @@ Across the three weeks plus the Capstone Project, this repository documents a fu
 And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carbonic anhydrase inhibitors, integrating every skill learned across the training into a single end-to-end pipeline.
 
 
-## 🔗 LinkedIn Post
+## 🔗 LinkedIn
 
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
