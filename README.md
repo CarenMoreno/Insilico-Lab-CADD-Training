@@ -144,7 +144,7 @@ Insilico-Lab-CADD-Training/
 - FASTA sequence retrieved from RCSB PDB and used as AlphaFold3 input
 - AlphaFold3 model confidence: pTM = 0.95, most residues in the very high confidence range (pLDDT > 90)
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1)
-- **Result: = 0.420 Å ( atoms)**  
+- **Result: =**  
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
 
