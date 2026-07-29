@@ -145,8 +145,7 @@ Insilico-Lab-CADD-Training/
 - AlphaFold3 model confidence: pTM = 0.95, most residues in the very high confidence range (pLDDT > 90)
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1)
 - **Result: RMSD = 0.420 Å (1240 atoms)** - excellent agreement between AI prediction and experimental structure
-- [Screenshot - FASTA sequence]
-- [Screenshot 
+- [Screenshot - FASTA sequence] 
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
 
