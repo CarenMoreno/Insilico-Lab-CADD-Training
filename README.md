@@ -139,7 +139,7 @@ Insilico-Lab-CADD-Training/
 
 **Target:** Human DHFR - PDB [1U72](https://www.rcsb.org/structure/1U72)
 
-### Task 1 - FASTA Retrieval, AlphaFold3 Prediction & 
+### Task 1 FASTA Retrieval, AlphaFold3 Prediction
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1) 
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
