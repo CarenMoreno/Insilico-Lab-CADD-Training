@@ -141,7 +141,7 @@ Insilico-Lab-CADD-Training/
 **Tool:** AlphaFold3 (structure prediction), PyMOL (structural alignment)
 
 ### Task 1 - FASTA Retrieval, AlphaFold3 Prediction & Structural Alignment
-- FASTA sequenc
+- sequenc
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1) 
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
