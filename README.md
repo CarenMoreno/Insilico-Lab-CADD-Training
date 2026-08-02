@@ -136,8 +136,6 @@ Insilico-Lab-CADD-Training/
 </table>
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
-Tar
-
 - Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1) 
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
