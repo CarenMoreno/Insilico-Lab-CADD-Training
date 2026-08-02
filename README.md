@@ -135,8 +135,7 @@ Insilico-Lab-CADD-Training/
   </tr>
 </table>
 
-#
-- Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb` from Week 1) 
+- Predicted structure aligned in PyMOL against the prepared experimental structure (`1U72prepared.pdb`) 
 
 ## 🧬 Week 3 - AI-Based Structure Prediction & Validation
 
