@@ -246,7 +246,7 @@ And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carboni
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
       <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 1.png" width="320" alt="Molecule 1: Curcumin"><br>
-      <sub><b>COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O)OC)O</b></sub>
+      <sub><b>COC1=C(C=CC(=C1)/C=C/C(=O)CC(=O)/C=C/C2=CC(=C(C=C2)O</b></sub>
     </td>
     <t">
       <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 2.png" width="320" alt="Molecule 2: Gefitinib"><br>
