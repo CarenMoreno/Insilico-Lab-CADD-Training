@@ -250,6 +250,4 @@ And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carboni
     </td>
     <t">
       <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 2.png" width="320" alt="Molecule 2: Gefitinib"><br>
-      <s</b></sub>
-    </td>
 </table>
