@@ -249,5 +249,5 @@ And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carboni
       <sub><b>(</b></sub>
     </td>
     <t">
-      <img src="Week2_Drug_Likeness_Dockin"=><br>
+      <img src="Week2_Drug_Likeness"=><br>
 </table>
