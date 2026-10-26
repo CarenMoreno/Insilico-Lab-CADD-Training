@@ -246,5 +246,4 @@ And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carboni
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
       <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task 3. Molecule 1.png" width="320" alt="Molecule 1: Curcumin"><br>
-      <sub><b>(</b></sub>
 </table>
