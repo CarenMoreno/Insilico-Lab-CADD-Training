@@ -245,5 +245,5 @@ And then on human Carbonic Anhydrase II (3HS4) with five clinically-used carboni
 <table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td align="center" style="border: none; padding: 10px;">
-      <img src="Week2_Drug_Likeness_Docking_ADMET/screenshots/Task"><br>
+      <img src=""><br>
 </table>
